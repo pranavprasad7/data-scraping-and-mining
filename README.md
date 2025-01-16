@@ -31,8 +31,7 @@ NOTE: Make sure chrome is your default browser and you are logged in on whatsapp
 Configuration
 Modify Global Parameters:
 Open the script and set the following:
-1.	Location Coordinates (LOCATION): Set the latitude and longitude of the search center. Example:
-LOCATION = "25.0657,55.17128" # Coordinates for Dubai
+1.	Location (LOCATION): pass the google maps location link for a place 
 2.	Radius (RADIUS): Define the search radius in meters.
 RADIUS = 1000 # 1 km radius
 3.	Google API Key (API_KEY): Replace with your Google Places API key.
