@@ -1,0 +1,1 @@
+schedule {search_phrase} appointment on {APPOINTMENT_DATE} from {APPOINTMENT_TIME}
