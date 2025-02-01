@@ -1,4 +1,4 @@
-# WhatsApp Business Automation Tool
+# Business Scrapper Automation Tool
 
 This tool automates the process of finding businesses in a specific geographic area and sending them WhatsApp messages. It uses Google Places API to find businesses and Selenium WebDriver to automate WhatsApp Web interactions.
 
