@@ -1,15 +1,16 @@
 {
-    "GOOGLE_MAPS_API_KEY": "AIzaSyCQap8zHMJUf_W6GwLUk_Dx-Josl2VuZ4c",
-    "GOOGLE_MAPS_LINK": "https://maps.app.goo.gl/RKZc2fe9vaBTNNXMA",
-    "RADIUS": 10000,
-    "search_phrase": "dental",
+    "GOOGLE_MAPS_API_KEY": "",
+    "GOOGLE_MAPS_LINK": "https://maps.app.goo.gl/yxs1mkxAbSZo5iVJ6",
+    "RADIUS": 1000,
+    "search_phrase": "restaurant",
     "country_code_file": "prep_country_code.csv",
     "APPOINTMENT_DATE": "20 Jan",
     "APPOINTMENT_TIME": "from 2 to 4 pm",
-    "MESSAGE_LIMIT": 10,
+    "MESSAGE_LIMIT": 5,
     "message_file": "prep_message.txt",
-    "WHATSAPP_PHONE_NUMBER": "+91 99996 23867",
+    "WHATSAPP_PHONE_NUMBER": "pranav prasad",
      "CHROME_DRIVER_PATH": "/Users/pranav/Downloads/chromedriver-mac-arm64/chromedriver",
     "CHROME_USER_DATA_DIR": "/Users/pranav/Library/Application Support/Google/Chrome",
     "CHROME_PROFILE_NAME": "Profile 3"
 }
+
